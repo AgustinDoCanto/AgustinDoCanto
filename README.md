@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Agustin Do Canto
 
-<!--
-**AgustinDoCanto/AgustinDoCanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Fullstack maker con alma curiosa. Me gusta meter mano en todo: desde el kernel hasta el UI.  
+Minimalismo, eficiencia y proyectos que realmente hagan cosas.  
+Siempre probando, rompiendo y mejorando 🚀
 
-Here are some ideas to get you started:
+## Mis intereses 😸
+- Linux (Arch y Debian lover 🐧)
+- Bajo nivel: Arduino, C/C++, sistemas embebidos 👾
+- Automatización con Python, scripts, CLI tools 🐍
+- .NET Core y desarrollo de APIs 👨‍💻
+- Docker y entornos reproducibles 🐋
+- PDF generators, scraping y magia terminalera 🧙🏼‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contacto
+- Mail: docantocontacto@gmail.com
+- GitHub: [AgustinDoCanto](https://github.com/AgustinDoCanto)
+
+---
